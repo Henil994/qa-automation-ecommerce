@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+myenv/
+venv/
+
+# OS
+.DS_Store
+
+# Reports (optional: comment out if you want reports in repo)
+bug_reports/
+executed_tests/
+
+# IDE
+.vscode/
+.idea/
