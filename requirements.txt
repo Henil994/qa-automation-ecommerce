@@ -1,0 +1,21 @@
+# Core
+pandas>=2.1.0
+openpyxl>=3.1.2
+
+# UI Automation
+playwright>=1.42.0
+
+# API Testing
+requests>=2.31.0
+
+# Performance Testing
+locust>=2.24.0
+
+# Security Testing
+python-owasp-zap-v2.4>=0.0.20
+
+# Reporting
+fpdf>=1.7.2
+
+# Utilities
+tabulate>=0.9.0
